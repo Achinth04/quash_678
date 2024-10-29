@@ -1,0 +1,4 @@
+Debug: No files specified, reading from stdin
+hello yalladvvfbgd bz ndg
+Debug: Processing file a.txt
+efwfwrgthecho Hello Qwgwr!jfwirhgijkbj
