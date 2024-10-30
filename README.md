@@ -1,7 +1,7 @@
 
 
 
-***To build quash, navigate to the directory quash which contains the source files and run "make all":**
+***To build quash, navigate to the directory "quash" which contains the source files and run "make all":**
 
 
                 make all
