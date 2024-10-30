@@ -1,4 +1,1 @@
-jj
-sdf
-terima
-randi
+this sentence shoudl be on b.txt

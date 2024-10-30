@@ -1,0 +1,2 @@
+jk
+this sentence shoudl be on b.txt
